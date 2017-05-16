@@ -2,7 +2,7 @@ package main.java;
 public class BowlingGame {
     public int getBowlingScore(String bowlingCode) {
         class Ge{
-            int flag; //flag=1表示strike，为2表示spare.
+            int flag; 
             int first;
             int second;
 
